@@ -1,0 +1,11 @@
+*{box-sizing: border-box}
+.one {text-align: center; padding: 10px; font-size: 50px; color: blue}
+.two {text-align: left; padding: 10px}
+.three {padding: 10px; font-size: 25px; color: orange; text-indent: 25px;}
+.four {text-align: center;}
+.five-one {width:25%%; display:table-cell;text-align: center; }
+.five-two {width:25%%; display:table-cell;text-align: center; }
+.five-three {width:25%%; display:table-cell;text-align: center; }
+.five-four {width:25%%; display:table-cell;text-align: center; }
+.onee {text-indent: 25px; font-size: 30px;}
+.twoo {text-indent: 25px; font-size: 45px; color: blue;}
