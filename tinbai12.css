@@ -1,0 +1,18 @@
+*{box-sizing: border-box}
+.row :after{ content:""; clear:both;  }
+.one {text-align: center; padding: 10px; font-size: 40px;}
+.two {text-align: left; padding: 10px}
+.three {padding: 10px; font-size: 20px; color: blueviolet; text-indent: 25px;}
+.three-one {width:10%;display:table-cell;}
+.three-two {width:10%;display:table-cell;}
+.four {text-align: center;}
+.five {height: 20px; float: center; padding: 10px;}
+.five-one {width:32%;display:table-cell; background-color:blue;}
+.five-two {width:32%;display:table-cell; background-color:blue}
+.five-three {width:32%;display:table-cell; background-color:blue}
+.five-four {width:32%;display:table-cell; background-color:blue}
+.six {display: table-cell; width: 25%}
+.seven {width: 75%; text-align: center; font-size: 15px; border-style: solid;}
+.eight {font-size: 25px}
+.onee {text-indent: 25px; font-size: 24px;}
+.twoo {text-indent: 25px; font-size: 27px; color: blue;}
